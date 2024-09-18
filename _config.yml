@@ -1,0 +1,31 @@
+# Site settings
+title: Studious Guacamole
+email: c.tsao1120211@gmail.com
+description: A description of your site
+baseurl: "/cyt" # The base URL for your site, e.g., /blog
+url: "https://studious-guacamole.github.io" # The base URL for your site, e.g., https://username.github.io/repository
+
+# Remote theme
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Build settings
+markdown: kramdown
+theme: "minimal"
+
+# Exclude some files or directories from being processed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - node_modules
+
+# GitHub Pages settings
+github:
+  repository: studious-guacamole/cyt
+  branch: main
+  url: https://github.com/studious-guacamole/cyt
