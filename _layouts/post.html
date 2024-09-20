@@ -13,7 +13,9 @@ layout: default
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
 <br>
-<iframe src="./assets/files/Credit.pdf" width="150%" height="600px">
+{% if page.file_document_path %}
+<iframe src="{{ page.file_document_path }}" width="150%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: 
     <a href="{{ site.baseurl }}{{ page.file_document_path }}">Download PDF</a>.
 </iframe>
+{% endif %}

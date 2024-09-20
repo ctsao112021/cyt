@@ -38,7 +38,7 @@ _BA in Fine Arts ​Jun. 2020_
 <span style="float: right;">Jul. 2023- Nov. 2023</span>
 </div> <br> 
  Collaborated with the art investment and curatorial organization Modern Form to curate the innovative Credit project. Focused on connecting non-traditional artists, whose work goes beyond painting and sculpture, with unconventional exhibition spaces. This project broke away from the typical white-cube gallery setting, offering new opportunities for artist exposure and expanding the possibilities for art display.<br><br>
-<span style="float: right;">[Link to the project](./another-page.html).</span>
+<span style="float: right;">[Link to the project](./Credit.html).</span>
 <br><br>
  <div style="width: 100%;">
 <span style="float: left;font-style: italic"> • A Doll’s House </span>

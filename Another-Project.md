@@ -1,6 +1,6 @@
 ---
 layout: post
-file_document_path: assets/files/Credit.pdf
+file_document_path: assets/img/ba.jpg # change path to assets/files/** to display another file(冒號後面一定要空一格)
 ---
 
 ## Credit
