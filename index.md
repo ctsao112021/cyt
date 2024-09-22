@@ -38,117 +38,12 @@ _BA in Fine Arts ​Jun. 2020_
 <span style="float: right;">Jul. 2023- Nov. 2023</span>
 </div> <br> 
  Collaborated with the art investment and curatorial organization Modern Form to curate the innovative Credit project. Focused on connecting non-traditional artists, whose work goes beyond painting and sculpture, with unconventional exhibition spaces. This project broke away from the typical white-cube gallery setting, offering new opportunities for artist exposure and expanding the possibilities for art display.<br><br>
-<span style="float: right;">[Link to the project](./Credit.html).</span>
+<span style="float: right;">[Link to the project](./Project-Credit.html).</span>
 <br><br>
  <div style="width: 100%;">
 <span style="float: left;font-style: italic"> • A Doll’s House </span>
 <span style="float: right;">Apr. 2023- Jun. 2023</span>
 </div> <br> 
-Conducted in-depth research on Victorian-era antique magazines from the late 18th to early 19th centuries. Developed a new narrative direction through multi-faceted organization and classification. Presented the project both physically and online, exploring innovative content display methods and successfully attracting diverse audiences.
-<br>
-<br>
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-<br>
-<br>
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Conducted in-depth research on Victorian-era antique magazines from the late 18th to early 19th centuries. Developed a new narrative direction through multi-faceted organization and classification. Presented the project both physically and online, exploring innovative content display methods and successfully attracting diverse audiences.<br><br>
+<span style="float: right;">[Link to the project](./Project-Dollhouse.html).</span>
+<br><br>
